@@ -1,0 +1,7 @@
+url = ""
+refresh-seconds = 10
+send-sms = true
+phone-number = ""
+twilio-account-sid = ""
+twilio-auth-token = ""
+twilio-number = ""
